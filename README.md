@@ -10,7 +10,7 @@ Frontend development using React:
 
 For the backend services for the "Step Addition" project, the following tasks need to be completed using NodeJS + Express:
 
-1)Set up a new Express project and create an endpoint for handling the API call.
+1) Set up a new Express project and create an endpoint for handling the API call.
 
 2) Implement the POST method for the endpoint and validate the request body. The request body should contain two numbers, "num1" and "num2", and should only accept positive numbers as input.
 
